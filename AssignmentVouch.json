@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Gautam",
+    "email": "gautambuddh@email.com",
+    "address": "12/250, Sector 3 Nayak Vihar, Indira Road",
+    "pincode": 224569
+  },
+  {
+    "name": "Ravi",
+    "email": "ravisaxena@yopmail.com",
+    "address": "89/250, Sector 3 Nayak Vihar, Indira Road",
+    "pincode": 224569
+  },
+  {
+    "name": "Alan",
+    "email": "turing@tomorrowland.com",
+    "address": "78 Sector Q, Tomorrowland",
+    "pincode": 224569
+  },
+  {
+    "name": "Captain James Marvalo Bond",
+    "email": "marvaloJamesBond@my6.com",
+    "address": "56, Tomorrow Land",
+    "pincode": 224439
+  },
+  {
+    "name": "Admiral Jack Sparrow",
+    "email": "sparrowjack@blackpearl.com",
+    "address": "56, Black Pearl",
+    "pincode": 234439
+  },
+  {
+    "name": "Coolio",
+    "email": "coolio@gangstaparadise.com",
+    "address": "15/250, Gangsta Pradise Falls",
+    "pincode": 223232
+  },
+  {
+    "name": "Hercules",
+    "email": "sonofjupiter@gangstaparadise.com",
+    "address": "1/250, Gangsta Pradise Falls",
+    "pincode": 223232
+  },
+  {
+    "name": "Christopher",
+    "email": "chris@atlantis.com",
+    "address": "89, Aliganj, Atlantis",
+    "pincode": 224569
+  },
+  {
+    "name": "Timothy",
+    "email": "timothy@my66.com",
+    "address": "32 Raw Land",
+    "pincode": 224139
+  },
+  {
+    "name": "USS Arliegh Burke",
+    "email": "arliegh@blackpearl.com",
+    "address": "56, Black Pearl",
+    "pincode": 234239
+  },
+  {
+    "name": "Saini",
+    "email": "saini@gail.com",
+    "address": "56, Atlantis",
+    "pincode": 222231
+  },
+  {
+    "name": "Karan",
+    "email": "Karan@gail.com",
+    "address": "52, Atlantis",
+    "pincode": 222231
+  },
+  {
+    "name": "Saini Manoj",
+    "email": "manoj@gail.com",
+    "address": "56, Atlantis",
+    "pincode": 222231
+  },
+  {
+    "name": "Kishan",
+    "email": "Kishan@chatter.com",
+    "address": "52, Atlantis",
+    "pincode": 222231
+  }
+]

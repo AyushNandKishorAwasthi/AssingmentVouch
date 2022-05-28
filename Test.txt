@@ -1,0 +1,38 @@
+// MongooseBulkWriteError
+[
+    {
+        "name":"Saini Manoj",
+        "email":"manoj@gail.com",
+        "pincode":222314,
+        "address":"56, Atlantis"
+    },
+    {
+        "name":"Kishan",
+        "email":"Kishan@chatter.com",
+        "pincode":223143,
+        "address":"52, Atlantis"
+    }
+]
+The emails already exists in the database
+
+// rawResult true validation error  mongoose property
+[
+    {
+        "name":"Chris",
+        "email":"chris@atlantis.com",
+        "address":"89, Aliganj, Atlantis",
+        "pincode":224569
+    },
+    {
+        "name": "",
+        "email": "marvaloJamesBond@my6.com",
+        "address": "56, Tomorrow Land",
+        "pincode": 224439
+    },
+    {
+        "name":"",
+        "email":"arliegh@blackpearl.com",
+        "address":"Room 56, Black Pearl",
+        "pincode":234239   
+    }
+]
